@@ -11,3 +11,4 @@ An implementation of a vector class and associated operations, which is then use
 Data wrangling exercises to answer questions about a large NHS prescription dataset.
 
 ## pw.ipynb
+Other pandas wrangling exercises to answer questions about a large dataset.
